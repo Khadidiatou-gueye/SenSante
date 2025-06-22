@@ -65,6 +65,7 @@ Ouvrir http://localhost:3000 dans votre navigateur
 | fatou.ndiaye@sensante.sn | motdepasse123 | Pédiatrie | Hôpital Principal Dakar |
 | moussa.fall@sensante.sn | motdepasse123 | Médecine Générale | Clinique de Thiès |
 | aissatou.sarr@sensante.sn | motdepasse123 | Gynécologie | Centre Médical Kaolack |
+| admin@sensante.sn | admin123 | - | - |
 
 ## Fonctionnalités Principales
 
