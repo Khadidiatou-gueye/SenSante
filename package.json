@@ -1,0 +1,24 @@
+{
+  "name": "sensante",
+  "version": "1.0.0",
+  "description": "SenSanté est un logiciel sécurisé de gestion des dossiers médicaux développé dans le cadre du projet DevSecOps. Il permet aux médecins d'une organisation de soins de santé multi-sites de créer, consulter et mettre à jour les dossiers médicaux de leurs patients.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1"
+  }
+}
